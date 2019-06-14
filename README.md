@@ -3,7 +3,7 @@ This script will help in updating CDS wallets hosted on VPS which are installed 
 
 Steps to Update CDS wallets hosted on VPS for masternode purpose.
 
-## Update Steps:
+## Update Steps for Ubuntu 16.04 Only:
 ```
 git clone https://github.com/udaydeep1992/cds-mn-wallet-update.git
 cd cds-mn-wallet-update
