@@ -7,6 +7,6 @@ Steps to Update CDS wallets hosted on VPS for masternode purpose.
 ```
 git clone https://github.com/udaydeep1992/cds-mn-wallet-update.git
 cd cds-mn-wallet-update
-chnod -R 755 update.sh
+chmod -R 755 update.sh
 bash update.sh
 ```
