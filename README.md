@@ -1,2 +1,12 @@
 # cds-mn-wallet-update
 This script will help in updating CDS wallets hosted on VPS which are installed by cds-mn-installer script.
+
+Steps to Update CDS wallets hosted on VPS for masternode purpose.
+
+## Update Steps:
+```
+git clone https://github.com/udaydeep1992/cds-mn-wallet-update.git
+cd cds-mn-wallet-update
+chnod -R 755 update.sh
+bash update.sh
+```
